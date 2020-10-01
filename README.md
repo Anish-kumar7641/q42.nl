@@ -1,4 +1,5 @@
-# This is not the code behind q42.nl and q42.com anymore!
+ Logr - An amazing project
+ # This is not the code behind q42.nl and q42.com anymore!
 
 As of september 15th 2017 Q42 has a "new & improved" website. 
 
